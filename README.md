@@ -1,11 +1,5 @@
 README.md
 
-We assume the data is already theres
+Download the data from this url and extract it under the data folder
 
-TODO : 
-
-- [??]  Add the code to download subtitles from youtube
-- [  ]  Pair prompt generation code
-- [  ]  GPT async code
-- [  ]  Visualize the results notebook
-- [  ]  Finalize the README
+[URL](https://mega.nz/file/zL4UUTCQ#CZJCtR_-Q2sqhSouvBuAPOLaSsOVREfouO-ozCjiYiQ)
